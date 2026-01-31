@@ -146,11 +146,6 @@ img[alt] {
   color: var(--clr-stone-900);
 }
 
-.hero__content {
-  width: 100%;
-  max-width: 78.25rem;
-}
-
 /*preparation*/
 .preparation {
   padding-top: 7px;
@@ -204,13 +199,6 @@ img[alt] {
 
 .preparation__text {
   margin: 0;
-}
-
-/*ingredients*/
-
-.ingredients__list {
-  width: 100%;
-  max-width: clamp(277rem, 43.6667rem + 995.5556vw, 977rem);
 }
 
 /*instructions*/
