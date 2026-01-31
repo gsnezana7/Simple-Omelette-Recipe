@@ -271,7 +271,7 @@ img[alt] {
   color: var(--clr-brown-800);
 }
 
-@media (min-width: 768px) {
+@media (min-width: 48rem) {
   body {
     padding: 0 1.875rem 0 1.875rem;
     width: 100%;
